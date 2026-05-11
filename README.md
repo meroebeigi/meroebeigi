@@ -180,17 +180,6 @@ Projects and academic work related to renewable energy technologies, sustainabil
 
 🔗 [View Project](ADD-YOUR-LINK-HERE)
 
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=dark&hide_border=true&title_color=FF7A00&icon_color=FF7A00" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=dark&hide_border=true&title_color=FF7A00" />
-</p>
 
 ---
 
