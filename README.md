@@ -226,4 +226,3 @@ I’m interested in opportunities where engineering understanding and data analy
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF7A00&height=100&section=footer"/>
 </p>
 ```
-
