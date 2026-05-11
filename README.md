@@ -1,4 +1,3 @@
-```markdown
 <!-- Animated Header -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=900&color=FF7A00&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Meroe+Asgharbeigi;Mechanical+Engineer+%26+Data+Analytics+Enthusiast;CFD+%7C+Python+%7C+Energy+Systems;Turning+engineering+data+into+decisions" alt="Typing SVG" />
@@ -79,14 +78,14 @@ I enjoy combining engineering thinking with analytical tools to better understan
 
 A complete analytics project focused on business KPIs, customer acquisition, segmentation, churn prediction, retention, and operational strategy.
 
-### What I Did
+**What I Did**
 - Built KPI dashboards for revenue, AOV, orders, conversion, and repeat rate  
 - Applied RFM segmentation  
 - Used K-Means clustering to identify customer groups  
 - Built churn prediction models  
 - Interpreted results into business and marketing strategies  
 
-### Skills Demonstrated
+**Skills Demonstrated**  
 `Python` `Pandas` `Data Visualization` `Customer Analytics` `Machine Learning` `Business Strategy`
 
 🔗 [View Project](ADD-YOUR-LINK-HERE)
@@ -97,14 +96,14 @@ A complete analytics project focused on business KPIs, customer acquisition, seg
 
 An extensive data analysis project answering survival-related questions through cleaning, feature engineering, visualization, and prediction.
 
-### What I Did
+**What I Did**
 - Cleaned and explored the Titanic dataset  
 - Engineered new features from passenger names and family structure  
 - Analyzed survival by class, age, fare, and family size  
 - Built machine learning models to predict survival  
 - Explained every step with reasoning and interpretation  
 
-### Skills Demonstrated
+**Skills Demonstrated**  
 `Python` `Pandas` `EDA` `Feature Engineering` `Classification Models`
 
 🔗 [View Project](ADD-YOUR-LINK-HERE)
@@ -115,14 +114,33 @@ An extensive data analysis project answering survival-related questions through 
 
 A structured HR analytics project focused on understanding employee patterns and identifying factors affecting retention.
 
-### What I Did
+**What I Did**
 - Explored employee-related variables  
 - Built visual insights and dashboards  
 - Interpreted trends from an HR and business perspective  
 - Connected findings to practical recommendations  
 
-### Skills Demonstrated
+**Skills Demonstrated**  
 `Data Cleaning` `Visualization` `Business Interpretation` `People Analytics`
+
+🔗 [View Project](ADD-YOUR-LINK-HERE)
+
+---
+
+### ✈️ Time Series Analysis — Airline Passenger Forecasting
+
+A full time series project covering EDA, decomposition, stationarity testing, and SARIMA forecasting on the classic AirPassengers dataset.
+
+**What I Did**
+- Cleaned and transformed the data (log scaling, datetime indexing)  
+- Performed seasonal decomposition (multiplicative model)  
+- Confirmed non-stationarity with ADF and KPSS dual tests  
+- Used ACF/PACF to select SARIMA(1,1,1)(1,1,1)[12] parameters  
+- Evaluated forecast on a 24-month hold-out set (MAPE < 5%)  
+- Delivered written business interpretation and recommendations  
+
+**Skills Demonstrated**  
+`Python` `Statsmodels` `SARIMA` `Time Series` `Statistical Testing` `Forecasting`
 
 🔗 [View Project](ADD-YOUR-LINK-HERE)
 
@@ -132,14 +150,14 @@ A structured HR analytics project focused on understanding employee patterns and
 
 A technical engineering project inspired by my R&D and thesis work on alkaline electrolysis systems.
 
-### Focus Areas
+**Focus Areas**
 - CFD simulation  
 - Pressure drop analysis  
 - Flow distribution  
 - Turbulence behavior  
 - Engineering optimization  
 
-### Skills Demonstrated
+**Skills Demonstrated**  
 `OpenFOAM` `CFD` `Fluid Dynamics` `Python` `ParaView` `Engineering Analysis`
 
 🔗 [View Project](ADD-YOUR-LINK-HERE)
@@ -150,14 +168,14 @@ A technical engineering project inspired by my R&D and thesis work on alkaline e
 
 Projects and academic work related to renewable energy technologies, sustainability, and large-scale energy systems.
 
-### Focus Areas
+**Focus Areas**
 - Solar energy systems  
 - Wind energy systems  
 - Energy sustainability  
 - Macro energy analysis  
 - Energy efficiency and optimization  
 
-### Skills Demonstrated
+**Skills Demonstrated**  
 `Energy Systems` `Sustainability` `Technical Analysis` `Engineering Modelling`
 
 🔗 [View Project](ADD-YOUR-LINK-HERE)
@@ -201,7 +219,6 @@ Projects and academic work related to renewable energy technologies, sustainabil
   <a href="mailto:meroeasgharbeigi00@gmail.com">
     <img src="https://img.shields.io/badge/Email-meroeasgharbeigi00%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
   <a href="https://www.linkedin.com/in/meroe-asgharbeigi">
     <img src="https://img.shields.io/badge/LinkedIn-Meroe%20Asgharbeigi-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -211,7 +228,7 @@ Projects and academic work related to renewable energy technologies, sustainabil
 
 ## 💡 Career Direction
 
-I’m interested in opportunities where engineering understanding and data analytics come together, especially within:
+I'm interested in opportunities where engineering understanding and data analytics come together, especially within:
 
 - Energy and sustainability  
 - Industrial analytics  
@@ -225,4 +242,3 @@ I’m interested in opportunities where engineering understanding and data analy
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF7A00&height=100&section=footer"/>
 </p>
-```
