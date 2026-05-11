@@ -1,6 +1,7 @@
+```markdown
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=900&color=FF7A00&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Meroe+Asgharbeigi;Mechanical+Engineer;CFD+%7C+Python+%7C+Data+Analytics;Turning+engineering+data+into+decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=900&color=FF7A00&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Meroe+Asgharbeigi;Mechanical+Engineer+%26+Data+Analytics+Enthusiast;CFD+%7C+Python+%7C+Energy+Systems;Turning+engineering+data+into+decisions" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -9,11 +10,31 @@
 
 # 👋 About Me
 
-I am **Meroe Asgharbeigi**, a Mechanical Engineer based in Aarhus, Denmark, with experience in **CFD simulation, engineering analysis, Python-based data processing, and technical visualization**.
+I am **Meroe Asgharbeigi**, a Mechanical Engineer based in Aarhus, Denmark, with experience in **CFD simulation, engineering analysis, Python-based data analytics, and technical visualization**.
 
-My work focuses on using engineering data to understand complex systems, evaluate performance, and support better design decisions.
+My background includes industrial R&D work in **alkaline electrolysis systems**, where I worked with simulation, flow analysis, pressure drop evaluation, turbulence behavior, and performance analysis using **OpenFOAM, Python, and engineering calculations**.
 
-I have worked on industrial R&D projects related to **alkaline electrolysis systems**, where I used **OpenFOAM, ParaView, Python, and engineering calculations** to analyze flow distribution, pressure drop, turbulence behavior, voltage losses, and system performance.
+Alongside my engineering work, I am expanding into **data analytics and business intelligence**, with a growing focus on transforming technical and operational data into actionable insights and better decision-making.
+
+I am particularly interested in working at the intersection of:
+
+- Mechanical engineering  
+- Energy systems  
+- Data analytics  
+- Industrial optimization  
+- Business and operational insights  
+
+Recently, I completed the **ReDI School Data Analytics program** and worked on practical analytics projects, including a course project developed in collaboration with **Whiteaway Group**, focused on data-driven problem solving and business analysis.
+
+My academic and project experience also includes work related to:
+
+- Renewable energy systems  
+- Solar and wind energy  
+- Macro energy systems and sustainability  
+- Engineering performance modelling  
+- Technical data interpretation and visualization  
+
+I enjoy combining engineering thinking with analytical tools to better understand systems, improve processes, and support smarter technical decisions.
 
 ---
 
@@ -23,7 +44,8 @@ I have worked on industrial R&D projects related to **alkaline electrolysis syst
 - CFD simulation experience using OpenFOAM  
 - Python for data analysis, automation, and visualization  
 - Engineering calculations and performance modelling  
-- Ability to translate simulation and data results into practical design insights  
+- Business and operational analytics mindset  
+- Ability to translate simulation and data results into practical insights  
 - Strong documentation, reporting, and communication skills  
 
 ---
@@ -44,21 +66,27 @@ I have worked on industrial R&D projects related to **alkaline electrolysis syst
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-blue?style=for-the-badge)
 ![Excel](https://img.shields.io/badge/Excel-Technical%20Modelling-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
+### Analytics & BI
+![SQL](https://img.shields.io/badge/SQL-Database%20Querying-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-Data%20Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Analytics-orange?style=for-the-badge)
+
 ---
 
 ## 📊 Featured Portfolio Projects
 
 ### 🔥 FoodKadeh Analytics — Business Intelligence & Customer Analytics
+
 A complete analytics project focused on business KPIs, customer acquisition, segmentation, churn prediction, retention, and operational strategy.
 
-**What I did**
+### What I Did
 - Built KPI dashboards for revenue, AOV, orders, conversion, and repeat rate  
 - Applied RFM segmentation  
 - Used K-Means clustering to identify customer groups  
 - Built churn prediction models  
 - Interpreted results into business and marketing strategies  
 
-**Skills shown**
+### Skills Demonstrated
 `Python` `Pandas` `Data Visualization` `Customer Analytics` `Machine Learning` `Business Strategy`
 
 🔗 [View Project](ADD-YOUR-LINK-HERE)
@@ -66,32 +94,34 @@ A complete analytics project focused on business KPIs, customer acquisition, seg
 ---
 
 ### 🚢 Titanic Data Analysis — Exploratory Analysis & Machine Learning
+
 An extensive data analysis project answering survival-related questions through cleaning, feature engineering, visualization, and prediction.
 
-**What I did**
+### What I Did
 - Cleaned and explored the Titanic dataset  
 - Engineered new features from passenger names and family structure  
 - Analyzed survival by class, age, fare, and family size  
 - Built machine learning models to predict survival  
 - Explained every step with reasoning and interpretation  
 
-**Skills shown**
-`Python` `Pandas` `EDA` `Feature Engineering` `Classification Models` `Notebook Documentation`
+### Skills Demonstrated
+`Python` `Pandas` `EDA` `Feature Engineering` `Classification Models`
 
 🔗 [View Project](ADD-YOUR-LINK-HERE)
 
 ---
 
 ### 👩‍💼 HR Analytics — Employee Insights & Retention Analysis
-A structured HR analytics project focused on understanding employee patterns and identifying factors that may affect retention.
 
-**What I did**
+A structured HR analytics project focused on understanding employee patterns and identifying factors affecting retention.
+
+### What I Did
 - Explored employee-related variables  
-- Built visual insights  
-- Interpreted trends from an HR/business perspective  
-- Connected data findings to practical recommendations  
+- Built visual insights and dashboards  
+- Interpreted trends from an HR and business perspective  
+- Connected findings to practical recommendations  
 
-**Skills shown**
+### Skills Demonstrated
 `Data Cleaning` `Visualization` `Business Interpretation` `People Analytics`
 
 🔗 [View Project](ADD-YOUR-LINK-HERE)
@@ -99,23 +129,42 @@ A structured HR analytics project focused on understanding employee patterns and
 ---
 
 ### ⚙️ Engineering Simulation & Electrolysis Analysis
+
 A technical engineering project inspired by my R&D and thesis work on alkaline electrolysis systems.
 
-**Focus areas**
+### Focus Areas
 - CFD simulation  
 - Pressure drop analysis  
 - Flow distribution  
 - Turbulence behavior  
 - Engineering optimization  
 
-**Skills shown**
+### Skills Demonstrated
 `OpenFOAM` `CFD` `Fluid Dynamics` `Python` `ParaView` `Engineering Analysis`
 
 🔗 [View Project](ADD-YOUR-LINK-HERE)
 
 ---
 
-## 📈 My GitHub Activity
+### ☀️ Renewable Energy & Macro Energy Systems
+
+Projects and academic work related to renewable energy technologies, sustainability, and large-scale energy systems.
+
+### Focus Areas
+- Solar energy systems  
+- Wind energy systems  
+- Energy sustainability  
+- Macro energy analysis  
+- Energy efficiency and optimization  
+
+### Skills Demonstrated
+`Energy Systems` `Sustainability` `Technical Analysis` `Engineering Modelling`
+
+🔗 [View Project](ADD-YOUR-LINK-HERE)
+
+---
+
+## 📈 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=dark&hide_border=true&title_color=FF7A00&icon_color=FF7A00" />
@@ -129,10 +178,11 @@ A technical engineering project inspired by my R&D and thesis work on alkaline e
 
 ## 🎯 Current Focus
 
-- Building a strong portfolio in engineering data analysis  
-- Improving Python, SQL, Power BI, and machine learning skills  
-- Developing projects that combine engineering, simulation, and business insight  
-- Applying data-driven thinking to technical and industrial problems  
+- Building projects at the intersection of engineering and data analytics  
+- Strengthening skills in Python, SQL, Power BI, and machine learning  
+- Applying analytics to industrial, operational, and energy-related problems  
+- Combining technical engineering knowledge with business insight and decision support  
+- Exploring opportunities within energy, engineering analytics, and data-driven optimization  
 
 ---
 
@@ -151,6 +201,7 @@ A technical engineering project inspired by my R&D and thesis work on alkaline e
   <a href="mailto:meroeasgharbeigi00@gmail.com">
     <img src="https://img.shields.io/badge/Email-meroeasgharbeigi00%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
   <a href="https://www.linkedin.com/in/meroe-asgharbeigi">
     <img src="https://img.shields.io/badge/LinkedIn-Meroe%20Asgharbeigi-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -158,6 +209,21 @@ A technical engineering project inspired by my R&D and thesis work on alkaline e
 
 ---
 
+## 💡 Career Direction
+
+I’m interested in opportunities where engineering understanding and data analytics come together, especially within:
+
+- Energy and sustainability  
+- Industrial analytics  
+- Engineering consulting  
+- Technical business intelligence  
+- Process optimization  
+- Data-driven engineering decision support  
+
+---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF7A00&height=100&section=footer"/>
 </p>
+```
+
