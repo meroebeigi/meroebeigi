@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=900&color=FF7A00&center=true&vCenter=true&width=950&lines=Hi%2C+I'm+Meroe+Asgharbeigi;Business+Analytics+%7C+Business+Development+%7C+B2B+Marketing;Python+%7C+SQL+%7C+Power+BI+%7C+Data-Driven+Growth;Turning+data+into+business+decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=900&color=FF7A00&center=true&vCenter=true&width=950&lines=Hi%2C+I'm+Meroe+Asgharbeigi;Business+Analytics+%7C+Business+Development+%7C+B2B+Marketing;Python+%7C+SQL+%7C+Power+BI+%7C+Agentic+AI;Turning+data+into+business+decisions" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,13 +18,13 @@ Over time, I became increasingly interested in the **business side of data**:
 * Which activities actually contribute to growth?
 * How can businesses identify better opportunities?
 * How can data improve sales, marketing, customer retention, and operations?
-* How can technical information be translated into decisions that people can actually act on?
+* How can AI and automation support smarter business workflows?
 
-That interest has led me toward **Business Analytics, Business Development, B2B Marketing, and Business Intelligence**.
+That interest has led me toward **Business Analytics, Business Development, B2B Marketing, Business Intelligence, and applied AI**.
 
 Today, I am building a profile that combines:
 
-**Data + Business + Communication + Technical Problem Solving**
+**Data + Business + AI + Communication + Technical Problem Solving**
 
 ---
 
@@ -37,7 +37,49 @@ My current work and learning focus on:
 * 📣 **B2B Marketing** — LinkedIn outreach, email marketing, content, campaign analysis, and customer acquisition
 * 📈 **Business Intelligence** — Power BI, Excel, SQL, dashboards, reporting, and decision support
 * 🐍 **Data Analytics** — Python, Pandas, visualization, statistical analysis, and machine learning
-* 🤖 **AI for Business** — exploring how AI and AI agents can support analytics, marketing, research, and business workflows
+* 🤖 **Agentic AI** — learning how AI agents, automation, and intelligent workflows can support analytics, research, marketing, and business operations
+
+---
+
+# 🎓 ReDI School Journey
+
+## 📊 Data Analytics
+
+I completed the **Data Analytics program at ReDI School**, where I strengthened my practical skills in working with data and communicating insights.
+
+The program helped me move from purely technical engineering analysis toward **business-focused analytics**, with stronger emphasis on:
+
+* Data cleaning and preparation
+* Exploratory data analysis
+* Python and Pandas
+* Data visualization
+* KPI analysis
+* Business interpretation
+* Presenting analytical findings
+* Turning data into actionable recommendations
+
+As part of the program, I worked on a practical analytics project developed in collaboration with **Whiteaway Group**, applying analytical thinking to a real business context.
+
+---
+
+## 🤖 Agentic AI
+
+I am currently continuing my learning at **ReDI School through the Agentic AI program**.
+
+My focus is on understanding how AI agents can move beyond simple prompting and support multi-step business workflows.
+
+I am especially interested in applications such as:
+
+* Automating research and information gathering
+* Supporting business development workflows
+* Lead research and qualification
+* Marketing automation
+* Data analysis assistance
+* AI-supported customer insights
+* Workflow orchestration
+* Connecting AI tools with real business processes
+
+My goal is not only to understand how AI works, but to learn how to apply it to **real business, marketing, and analytics problems**.
 
 ---
 
@@ -64,13 +106,19 @@ I am particularly interested in understanding the connection between **marketing
 
 ## 📊 Data Analytics & Business Intelligence
 
-I completed the **Data Analytics program at ReDI School**, where I strengthened my practical skills in working with data and communicating insights.
-
-I also worked on a business analytics project developed in collaboration with **Whiteaway Group**, applying analytical thinking to a real business context.
-
 My analytics work focuses not only on producing charts or models, but on answering:
 
 > **What does this data mean for the business, and what should we do next?**
+
+I enjoy working with data to understand:
+
+* Business performance
+* Customer behavior
+* Acquisition and retention
+* Marketing effectiveness
+* Operational trends
+* Growth opportunities
+* Forecasting and planning
 
 ---
 
@@ -111,12 +159,17 @@ I am comfortable moving between **technical details and business-level interpret
 ![LinkedIn Outreach](https://img.shields.io/badge/LinkedIn-Outreach-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)
 ![Email Marketing](https://img.shields.io/badge/Email-Marketing-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)
 
+## 🤖 AI & Automation
+
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-AI%20Workflows-8A2BE2?style=for-the-badge)
+![AI Automation](https://img.shields.io/badge/AI-Automation-6F42C1?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Predictive%20Analytics-orange?style=for-the-badge)
+
 ## 🐍 Data & Programming
 
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Analysis-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-blue?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Predictive%20Analytics-orange?style=for-the-badge)
 
 ## ⚙️ Engineering & Technical
 
@@ -280,26 +333,27 @@ I am currently building toward roles such as:
 
 **Business Analyst · Business Intelligence Analyst · Data Analyst · Business Development · Growth · B2B Marketing · Marketing Analytics**
 
-I am particularly interested in environments where I can combine analytics with commercial thinking, including:
+I am particularly interested in environments where I can combine **analytics, commercial thinking, communication, and AI**, including:
 
 * Startups and scaleups
 * SaaS and technology
+* AI companies
 * Energy and sustainability
 * Engineering and industrial companies
 * Consulting
 * Data-driven commercial teams
 
-Long term, I want to work in roles where I can understand both **the numbers and the business behind them**.
+Long term, I want to work in roles where I can understand both **the numbers and the business behind them**, and use data and AI to support better decisions and growth.
 
 ---
 
 # 🧠 Currently Learning
 
-I am continuously developing my skills in:
+I am currently developing my skills through **ReDI School's Agentic AI program**, while continuing to strengthen my background in:
 
-`SQL` · `Power BI` · `Python` · `Machine Learning` · `Business Analytics` · `AI Agents` · `Marketing Analytics` · `B2B Growth`
+`Agentic AI` · `AI Automation` · `SQL` · `Power BI` · `Python` · `Machine Learning` · `Business Analytics` · `Marketing Analytics` · `B2B Growth`
 
-I am especially interested in learning how **AI, analytics, and automation can improve business development and marketing workflows**.
+I am especially interested in understanding how **AI agents, analytics, and automation can improve business development, marketing, research, and decision-making workflows**.
 
 ---
 
@@ -326,9 +380,11 @@ I'm always interested in meeting people working in **analytics, business develop
 </p>
 
 <p align="center">
-  <b>Engineering mindset. Business curiosity. Data-driven decisions.</b>
+  <b>Engineering mindset. Business curiosity. Data and AI-driven decisions.</b>
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF7A00&height=100&section=footer"/>
+</p>
+pe=waving&color=FF7A00&height=100&section=footer"/>
 </p>
