@@ -146,18 +146,18 @@ I am comfortable moving between **technical details and business-level interpret
 
 ## 📊 Business Analytics & BI
 
-![Power BI](https://img.shields.io/badge/Power%20BI-Business%20Intelligence-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-Data%20Analysis-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-Business%20Analytics-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Data%20Analytics-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-Business%20Intelligence-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-Data%20Analysis-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-Business%20Analytics-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Data%20Analytics-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## 📣 Business Development & Marketing
 
 ![B2B Marketing](https://img.shields.io/badge/B2B-Marketing-FF7A00?style=for-the-badge)
 ![Business Development](https://img.shields.io/badge/Business-Development-0A66C2?style=for-the-badge)
 ![Market Research](https://img.shields.io/badge/Market-Research-6A5ACD?style=for-the-badge)
-![LinkedIn Outreach](https://img.shields.io/badge/LinkedIn-Outreach-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)
-![Email Marketing](https://img.shields.io/badge/Email-Marketing-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)
+![LinkedIn Outreach](https://img.shields.io/badge/LinkedIn-Outreach-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+![Email Marketing](https://img.shields.io/badge/Email-Marketing-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
 
 ## 🤖 AI & Automation
 
@@ -167,8 +167,8 @@ I am comfortable moving between **technical details and business-level interpret
 
 ## 🐍 Data & Programming
 
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Analysis-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Analysis-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-blue?style=for-the-badge)
 
 ## ⚙️ Engineering & Technical
@@ -184,13 +184,13 @@ I am comfortable moving between **technical details and business-level interpret
 
 ## 🔥 FoodKadeh — Business & Customer Analytics
 
-A business analytics project focused on understanding company performance and customer behavior through KPIs, segmentation, churn analysis, and predictive modelling.
+A business analytics project focused on understanding company performance and customer behavior through KPIs, segmentation, current customer inactivity classification, SQL analysis, and interactive Power BI reporting.
 
 ### Business Questions
 
 * Who are the most valuable customers?
 * Which customer groups behave differently?
-* What factors are associated with churn?
+* What factors are associated with current customer inactivity?
 * How can retention be improved?
 * Which KPIs should management monitor?
 
@@ -199,14 +199,37 @@ A business analytics project focused on understanding company performance and cu
 * Created and analyzed KPIs including revenue, orders, AOV, conversion, and repeat rate
 * Performed RFM customer segmentation
 * Used K-Means clustering to identify customer groups
-* Developed churn prediction models
+* Built classifiers for current 45-day customer inactivity on synthetic data
+* Implemented SQL analytics and a seven-page Power BI report with interactive filters
 * Translated analytical results into marketing and retention recommendations
 
 ### Skills
 
-`Python` `Pandas` `Customer Analytics` `RFM` `K-Means` `Machine Learning` `Business Strategy`
+`Python` `SQL` `Power BI` `Pandas` `Customer Analytics` `RFM` `K-Means` `Machine Learning` `Business Strategy`
 
-🔗 [View Project](ADD-YOUR-LINK-HERE)
+🔗 [View Repository](https://github.com/meroebeigi/FoodKadeh-Data-Analytics-)
+
+---
+
+## 🛒 E-Commerce Decision Intelligence — Public Olist Data
+
+A public-data portfolio project combining Python, SQL and Power BI to examine delivered merchandise value, repeat purchasing, product performance and delivery experience.
+
+### What I Did
+
+* Built grain-safe data preparation and reconciled Python/SQL metrics
+* Developed customer, product, seller and operational analyses
+* Evaluated temporal risk models and documented their limitations
+* Created an interactive Power BI summary report and live dashboard tile
+* Connected analytical findings to proposed business experiments and decision gates
+
+### Skills
+
+`Python` `SQL` `Power BI` `Customer Analytics` `Data Quality` `Business Intelligence`
+
+🔗 [View Repository](https://github.com/meroebeigi/e-commerce-business-analytics)
+
+This public Olist analysis is separate from the Whiteaway collaboration below.
 
 ---
 
@@ -230,7 +253,7 @@ The project focused on using data to investigate a real business problem and com
 
 `Business Analytics` `Data Visualization` `Python` `Business Intelligence` `Problem Solving`
 
-🔗 [View Project](ADD-YOUR-LINK-HERE)
+🔗 [View Repository](https://github.com/meroebeigi/DataAnalytics_ReDi) — private repository; access required.
 
 ---
 
@@ -250,7 +273,7 @@ An analytics project focused on understanding employee characteristics, workforc
 
 `People Analytics` `Data Cleaning` `Visualization` `Business Interpretation`
 
-🔗 [View Project](ADD-YOUR-LINK-HERE)
+🔗 [View Repository](https://github.com/meroebeigi/HR-Project--Data-Analytics)
 
 ---
 
@@ -265,65 +288,15 @@ A forecasting project exploring historical passenger data and predicting future 
 * Tested stationarity using ADF and KPSS
 * Used ACF and PACF for model development
 * Built a SARIMA forecasting model
-* Evaluated model performance on unseen data
+* Saved executed notebook outputs and evaluated the 1959–1960 holdout: MAPE 9.48%, MAE 43.73 and RMSE 48.25
+* Built Power BI views of monthly trends, annual totals and seasonality
 * Translated forecast results into business interpretation
 
 ### Skills
 
 `Python` `Statsmodels` `SARIMA` `Forecasting` `Statistical Analysis` `Business Planning`
 
-🔗 [View Project](ADD-YOUR-LINK-HERE)
-
----
-
-## 🚢 Titanic — Exploratory & Predictive Analytics
-
-A complete data analysis and machine-learning project covering data cleaning, exploratory analysis, feature engineering, visualization, and classification.
-
-### What I Did
-
-* Cleaned and prepared the dataset
-* Investigated relationships between passenger characteristics and survival
-* Engineered new features
-* Compared patterns across customer groups
-* Built classification models
-* Explained model decisions and analytical findings
-
-### Skills
-
-`Python` `Pandas` `EDA` `Feature Engineering` `Machine Learning`
-
-🔗 [View Project](ADD-YOUR-LINK-HERE)
-
----
-
-# ⚙️ From Engineering Data to Business Decisions
-
-## Alkaline Electrolysis & CFD Analysis
-
-My Master's work and industrial R&D experience focused on alkaline electrolyzer systems and computational fluid dynamics.
-
-I worked with:
-
-* CFD simulations using OpenFOAM
-* Flow distribution analysis
-* Pressure-drop evaluation
-* Turbulence modelling
-* Engineering calculations
-* Python-based post-processing
-* Technical visualization
-* Performance analysis
-* Design optimization
-
-The most valuable skill I carried from engineering into analytics is not a specific software tool.
-
-It is the ability to take a complex system, break it into measurable components, analyze the evidence, and communicate what the results mean.
-
-### Skills
-
-`OpenFOAM` `CFD` `Python` `Engineering Analytics` `Energy Systems` `Technical Problem Solving`
-
-🔗 [View Project](ADD-YOUR-LINK-HERE)
+🔗 [View Repository](https://github.com/meroebeigi/TimeseriesAnalysis-InclassWorkshop)
 
 ---
 
@@ -385,6 +358,4 @@ I'm always interested in meeting people working in **analytics, business develop
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF7A00&height=100&section=footer"/>
-</p>
-pe=waving&color=FF7A00&height=100&section=footer"/>
 </p>
